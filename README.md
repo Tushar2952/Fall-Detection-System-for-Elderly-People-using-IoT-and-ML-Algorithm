@@ -1,3 +1,4 @@
+![Fall Detection System_Schematic](https://github.com/user-attachments/assets/6233e7a8-147e-4a63-9917-044d7cf5654c)
 # 🛡️ Fall Detection System
 
 The **Fall Detection System** is an IoT and machine learning-based solution designed to monitor elderly individuals and detect potential falls in real-time using multiple environmental and motion sensors. The system aims to alert caregivers and reduce the risks associated with undetected falls.
