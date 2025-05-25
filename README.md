@@ -67,38 +67,4 @@ Sensor data logged includes:
 
 Use the data to train ML models in Python using `scikit-learn`, `xgboost`, or `tensorflow`.
 
----
 
-## 🧪 Project Structure
-
----
-
-## 📊 Example Use Case
-
-1. Elderly individual wears the sensor unit.
-2. Sudden motion or fall is detected (based on jerk, gyro, and distance).
-3. LED alerts instantly, and optionally a buzzer or SMS module can be integrated.
-4. Data is logged for continuous learning and improvement.
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.  
-See [LICENSE](LICENSE) for more information.
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to [Adafruit](https://adafruit.com) for BMP280 libraries.
-- Inspired by real-world healthcare challenges for elder care.
-- Developed using open-source software and hardware.
-
----
-
-## 👨‍💻 Author
-
-**Tushar**  
-Electronics, AI, and Embedded Systems Enthusiast  
-📧 [Email Me](mailto:your.email@example.com)
